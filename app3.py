@@ -1,5 +1,5 @@
 
-!pip install streamlit -q
+%%writefile app3.py
 
 import streamlit as st
 from transformers import pipeline
